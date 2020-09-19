@@ -1,0 +1,103 @@
+{
+  "bugs": [
+    {
+      "id": 1,
+      "title": "Variant not recognized by TypeScript",
+      "critical": true,
+      "engineer": "Presh Onyee",
+      "date": "2020-09-18T23:58:47.921Z"
+    },
+    {
+      "id": 2,
+      "title": "Global styles not working with SSR",
+      "critical": false,
+      "engineer": "Samuel Major",
+      "date": "2020-09-19T00:56:42.765Z"
+    },
+    {
+      "title": "bdfgdfgs",
+      "critical": true,
+      "engineer": "Samuel Major",
+      "status": "In-Progress",
+      "date": "2020-09-19T03:04:38.012Z",
+      "id": 3
+    },
+    {
+      "title": "nbsjdads",
+      "critical": false,
+      "engineer": "Presh Onyee",
+      "status": "Open",
+      "date": "2020-09-19T03:09:40.652Z",
+      "id": 4
+    },
+    {
+      "title": "Apple iPhone X",
+      "critical": true,
+      "engineer": "Chief of Lamba",
+      "label": "Server",
+      "status": "In-Review",
+      "date": "2020-09-19T03:14:00.333Z",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "title": "dfggsdgsdfgdfgf",
+      "critical": false,
+      "engineer": "Presh Onyee",
+      "date": "2020-09-19T03:16:57.669Z"
+    }
+  ],
+  "engineers": [
+    {
+      "id": 2,
+      "firstName": "Samuel",
+      "lastName": "Major"
+    },
+    {
+      "firstName": "Chief of",
+      "lastName": "Lamba",
+      "id": 3
+    },
+    {
+      "firstName": "Presh",
+      "lastName": "Onyee",
+      "id": 4
+    }
+  ],
+  "labels": [
+    {
+      "id": 1,
+      "labelName": "FrontEnd"
+    },
+    {
+      "id": 2,
+      "labelName": "Backend"
+    },
+    {
+      "labelName": "Server",
+      "id": 3
+    },
+    {
+      "labelName": "Devops",
+      "id": 4
+    }
+  ],
+  "statusz": [
+    {
+      "id": 1,
+      "statusName": "Resolved"
+    },
+    {
+      "id": 2,
+      "statusName": "In-Progress"
+    },
+    {
+      "statusName": "In-Review",
+      "id": 3
+    },
+    {
+      "statusName": "Open",
+      "id": 4
+    }
+  ]
+}
